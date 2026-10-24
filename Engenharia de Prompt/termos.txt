@@ -1,0 +1,38 @@
+prompts tendenciosos, enviesados , alucinações, considerações éticas, privacidade e segurança
+
+• O que é um prompt tendencioso?
+
+É um comando ou pergunta formulada de maneira a direcionar o modelo de Inteligência Artificial 
+para uma resposta específica, muitas vezes contendo vieses (preconceitos ou preferências);
+
+
+Prompts Enviesados (Viés Algorítmico)
+
+• O que é: Distorções sistemáticas nas respostas geradas pela IA, 
+causadas por dados de treinamento preconceituosos, escolhas de design ou comandos (prompts)
+mal formulados que reforçam estereótipos de gênero, raça ou classe social;
+
+
+Alucinações
+
+• O que é: Quando o modelo de linguagem cria informações falsas, inventa fontes, datas ou fatos
+com tom de total convicção para preencher lacunas de conhecimento;
+
+
+Considerações Éticas
+
+• O que é: Envolve a transparência sobre o uso de conteúdos sintéticos, direitos autorais de obras utilizadas no treinamento 
+e a responsabilidade civil/profissional sobre as decisões tomadas com base na IA;
+
+
+Privacidade
+
+• O que é: O risco de vazamento de dados confidenciais inseridos espontaneamente em chats públicos de IA, 
+que podem ser absorvidos ou reutilizados pelo sistema;
+
+
+Segurança
+
+• O que é: Abrangência de ameaças técnicas como prompts ocultos (prompt injection), onde comandos invisíveis (ex: texto branco em fundo branco) 
+são embutidos em documentos para sequestrar a resposta da IA ou fraudar processos, além de golpes com deepfakes e engenharia social.
+
